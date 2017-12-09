@@ -1,0 +1,5 @@
+-- Author: Vishal
+
+-- Solution
+
+SELECT * FROM CITY WHERE id = id;
